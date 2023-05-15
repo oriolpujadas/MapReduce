@@ -3,7 +3,8 @@
 //incloure les llibreries que es necessiten
 #include <stdbool.h>
     
-
+int contarPalabras(FILE *);
+int contarLetras(FILE *);
  
 
 
